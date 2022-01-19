@@ -1,0 +1,925 @@
+Unnamed: 0,Address,zip,street,price,longitude,latitude,Area
+100,Kelapa Sawit,13928,Jl Senayan City,214051,3.6,3.2,57
+101,Jogjakarta,13792,Jl Sentul City,1336143,3.6,4.2,86
+102,Jogjakarta,14009,Jl Senayan City,1772990,3.6,3.2,62
+103,Pulo Gadung,13427,Jl Senayan City,1255560,3.6,3.2,79
+104,Pulo Gadung,15500,Jl Sudirman,1382067,3.6,4.2,70
+105,Pulo Gadung,14289,Jl Sentul City,2846825,3.6,3.2,57
+106,Kelapa Sawit,14408,Jl Sudirman,1175188,3.6,4.2,78
+107,Jogjakarta,13959,Jl Sentul City,1694471,3.6,3.2,90
+108,Jogjakarta,14151,Jl Senayan City,487413,3.6,3.2,85
+109,Kelapa Sawit,14068,Jl Senayan City,1478302,3.6,3.2,73
+110,Pulo Gadung,15246,Jl Sudirman,912078,3.6,3.2,63
+111,Jogjakarta,13984,Jl Sentul City,2410661,3.6,4.2,83
+112,Jogjakarta,13778,Jl Senayan City,1060265,3.6,4.2,66
+113,Pulo Gadung,13715,Jl Senayan City,2232389,3.6,4.2,83
+114,Pulo Gadung,15228,Jl Sudirman,658367,3.6,4.2,82
+115,Jogjakarta,14603,Jl Sentul City,2820694,3.6,3.2,59
+116,Kelapa Sawit,15417,Jl Senayan City,652494,3.6,3.2,67
+117,Kelapa Sawit,14269,Jl Senayan City,2515277,3.6,4.2,85
+118,Kelapa Sawit,14010,Jl Sentul City,211927,3.6,4.2,87
+119,Pulo Gadung,14817,Jl Sentul City,2601999,3.6,3.2,72
+120,Kelapa Sawit,15500,Jl Senayan City,160582,3.6,4.2,82
+121,Pulo Gadung,14568,Jl Sentul City,2846331,3.6,3.2,66
+122,Jogjakarta,13926,Jl Sentul City,1838484,3.6,3.2,65
+123,Jogjakarta,14943,Jl Sudirman,1589525,3.6,4.2,65
+124,Kelapa Sawit,14935,Jl Sudirman,499496,3.6,4.2,58
+125,Jogjakarta,13560,Jl Sentul City,864279,3.6,4.2,56
+126,Kelapa Sawit,14427,Jl Sentul City,1711372,3.6,3.2,56
+127,Pulo Gadung,15014,Jl Sentul City,2547940,3.6,3.2,75
+128,Kelapa Sawit,13680,Jl Sentul City,2161251,3.6,4.2,88
+129,Pulo Gadung,15103,Jl Senayan City,1365633,3.6,4.2,78
+130,Kelapa Sawit,15373,Jl Senayan City,1497645,3.6,3.2,69
+131,Jogjakarta,15456,Jl Sentul City,876940,3.6,4.2,62
+132,Jogjakarta,15163,Jl Senayan City,607252,3.6,4.2,56
+133,Kelapa Sawit,14104,Jl Sudirman,310655,3.6,4.2,77
+134,Pulo Gadung,14293,Jl Sudirman,96573,3.6,4.2,63
+135,Jogjakarta,14363,Jl Sudirman,1583495,3.6,3.2,78
+136,Kelapa Sawit,13562,Jl Sudirman,352220,3.6,4.2,56
+137,Pulo Gadung,14001,Jl Sentul City,846363,3.6,4.2,76
+138,Jogjakarta,13934,Jl Senayan City,1826534,3.6,3.2,64
+139,Jogjakarta,14153,Jl Sudirman,491948,3.6,3.2,72
+140,Jogjakarta,13705,Jl Sudirman,1644911,3.6,3.2,79
+141,Jogjakarta,14137,Jl Sudirman,668417,3.6,3.2,75
+142,Kelapa Sawit,14923,Jl Sudirman,2579063,3.6,3.2,57
+143,Kelapa Sawit,14075,Jl Senayan City,1447780,3.6,3.2,58
+144,Pulo Gadung,14876,Jl Sentul City,1886143,3.6,4.2,79
+145,Pulo Gadung,15113,Jl Sentul City,2615626,3.6,4.2,78
+146,Kelapa Sawit,14759,Jl Senayan City,2607591,3.6,3.2,86
+147,Pulo Gadung,14201,Jl Sentul City,828429,3.6,4.2,75
+148,Kelapa Sawit,14682,Jl Sentul City,891613,3.6,3.2,67
+149,Kelapa Sawit,14013,Jl Sudirman,2950663,3.6,3.2,86
+150,Jogjakarta,13485,Jl Sentul City,533519,3.6,3.2,56
+151,Kelapa Sawit,15028,Jl Senayan City,1999948,3.6,4.2,63
+152,Pulo Gadung,14785,Jl Senayan City,2577591,3.6,3.2,69
+153,Kelapa Sawit,13521,Jl Sentul City,2107532,3.6,4.2,90
+154,Pulo Gadung,14933,Jl Senayan City,2377120,3.6,3.2,77
+155,Pulo Gadung,14637,Jl Sentul City,2278558,3.6,3.2,71
+156,Pulo Gadung,14512,Jl Sudirman,1108166,3.6,3.2,80
+157,Kelapa Sawit,14817,Jl Sudirman,1126152,3.6,4.2,67
+158,Kelapa Sawit,15496,Jl Senayan City,1996424,3.6,3.2,89
+159,Jogjakarta,14778,Jl Sudirman,1619405,3.6,3.2,61
+160,Kelapa Sawit,13906,Jl Senayan City,1968140,3.6,3.2,76
+161,Pulo Gadung,14124,Jl Senayan City,200859,3.6,3.2,88
+162,Jogjakarta,14917,Jl Sentul City,457430,3.6,4.2,86
+163,Jogjakarta,14795,Jl Sudirman,2874365,3.6,4.2,68
+164,Kelapa Sawit,13574,Jl Senayan City,1151259,3.6,3.2,82
+165,Kelapa Sawit,14264,Jl Sentul City,642792,3.6,3.2,62
+166,Kelapa Sawit,13652,Jl Sudirman,1247583,3.6,4.2,61
+167,Kelapa Sawit,14374,Jl Senayan City,1813930,3.6,3.2,58
+168,Jogjakarta,13680,Jl Sudirman,2657311,3.6,4.2,71
+169,Kelapa Sawit,14344,Jl Senayan City,1969342,3.6,3.2,60
+170,Pulo Gadung,15031,Jl Sentul City,1902445,3.6,4.2,69
+171,Pulo Gadung,13976,Jl Senayan City,901133,3.6,4.2,76
+172,Jogjakarta,15143,Jl Sudirman,2186721,3.6,3.2,62
+173,Pulo Gadung,15432,Jl Sudirman,177982,3.6,4.2,80
+174,Jogjakarta,14605,Jl Sentul City,1259920,3.6,4.2,57
+175,Pulo Gadung,15079,Jl Sudirman,1775363,3.6,3.2,75
+176,Jogjakarta,15104,Jl Senayan City,2088109,3.6,3.2,80
+177,Pulo Gadung,14137,Jl Sentul City,604031,3.6,4.2,70
+178,Pulo Gadung,15087,Jl Senayan City,2162507,3.6,3.2,63
+179,Jogjakarta,13970,Jl Senayan City,2184024,3.6,4.2,83
+180,Pulo Gadung,15131,Jl Senayan City,2235608,3.6,4.2,90
+181,Pulo Gadung,15054,Jl Sudirman,744823,3.6,4.2,86
+182,Jogjakarta,15261,Jl Sudirman,1105479,3.6,3.2,71
+183,Pulo Gadung,14151,Jl Sentul City,2647087,3.6,4.2,79
+184,Jogjakarta,15014,Jl Sudirman,1769483,3.6,3.2,76
+185,Jogjakarta,13633,Jl Senayan City,615846,3.6,4.2,85
+186,Jogjakarta,14884,Jl Senayan City,157919,3.6,3.2,72
+187,Pulo Gadung,14498,Jl Senayan City,789124,3.6,3.2,65
+188,Pulo Gadung,15024,Jl Senayan City,454445,3.6,4.2,85
+189,Kelapa Sawit,15644,Jl Sentul City,454628,3.6,3.2,69
+190,Pulo Gadung,15297,Jl Sudirman,2361704,3.6,3.2,77
+191,Jogjakarta,14375,Jl Sentul City,1887871,3.6,4.2,58
+192,Kelapa Sawit,13842,Jl Senayan City,943291,3.6,3.2,73
+193,Kelapa Sawit,15469,Jl Senayan City,673617,3.6,4.2,77
+194,Jogjakarta,14338,Jl Sentul City,1693606,3.6,3.2,73
+195,Kelapa Sawit,15561,Jl Sentul City,1369598,3.6,4.2,79
+196,Jogjakarta,14279,Jl Sentul City,1284162,3.6,3.2,69
+197,Pulo Gadung,15087,Jl Sentul City,1316765,3.6,4.2,89
+198,Pulo Gadung,14532,Jl Sentul City,2271477,3.6,4.2,57
+199,Kelapa Sawit,13767,Jl Sentul City,1240847,3.6,4.2,56
+200,Pulo Gadung,15001,Jl Senayan City,1627022,3.6,3.2,75
+201,Pulo Gadung,15588,Jl Sudirman,2874277,3.6,3.2,75
+202,Pulo Gadung,15542,Jl Senayan City,2896992,3.6,3.2,64
+203,Pulo Gadung,13734,Jl Sudirman,1501581,3.6,3.2,89
+204,Jogjakarta,15629,Jl Sudirman,435096,3.6,4.2,64
+205,Kelapa Sawit,13627,Jl Senayan City,1115325,3.6,3.2,73
+206,Pulo Gadung,15044,Jl Sentul City,664944,3.6,4.2,61
+207,Jogjakarta,14337,Jl Senayan City,48994,3.6,3.2,74
+208,Pulo Gadung,13664,Jl Sudirman,2848395,3.6,3.2,89
+209,Kelapa Sawit,14684,Jl Senayan City,2945265,3.6,4.2,73
+210,Jogjakarta,14221,Jl Senayan City,732654,3.6,3.2,87
+211,Jogjakarta,15378,Jl Sudirman,1348142,3.6,4.2,86
+212,Kelapa Sawit,14119,Jl Sudirman,2679658,3.6,3.2,82
+213,Pulo Gadung,13937,Jl Sudirman,1695662,3.6,3.2,78
+214,Jogjakarta,14500,Jl Sudirman,549203,3.6,4.2,79
+215,Jogjakarta,15092,Jl Sudirman,2751740,3.6,3.2,85
+216,Jogjakarta,14483,Jl Sentul City,2572815,3.6,4.2,72
+217,Pulo Gadung,13953,Jl Sudirman,301138,3.6,4.2,80
+218,Pulo Gadung,14699,Jl Sudirman,122520,3.6,4.2,79
+219,Jogjakarta,13608,Jl Sentul City,427637,3.6,4.2,58
+220,Pulo Gadung,13672,Jl Sudirman,1761081,3.6,4.2,58
+221,Kelapa Sawit,14729,Jl Sudirman,118773,3.6,3.2,71
+222,Kelapa Sawit,15093,Jl Sentul City,1050388,3.6,4.2,62
+223,Jogjakarta,15292,Jl Sentul City,929447,3.6,3.2,75
+224,Pulo Gadung,13733,Jl Sentul City,1639875,3.6,4.2,74
+225,Pulo Gadung,15285,Jl Sentul City,574397,3.6,3.2,75
+226,Pulo Gadung,14499,Jl Senayan City,1222048,3.6,3.2,67
+227,Kelapa Sawit,14688,Jl Sudirman,755951,3.6,4.2,67
+228,Kelapa Sawit,14057,Jl Sudirman,400391,3.6,4.2,86
+229,Kelapa Sawit,13923,Jl Sentul City,2787878,3.6,4.2,88
+230,Jogjakarta,14721,Jl Senayan City,2185019,3.6,4.2,82
+231,Kelapa Sawit,14884,Jl Sudirman,2532159,3.6,4.2,75
+232,Jogjakarta,13859,Jl Sentul City,1533124,3.6,4.2,56
+233,Jogjakarta,14208,Jl Senayan City,1299025,3.6,3.2,56
+234,Jogjakarta,15190,Jl Senayan City,823247,3.6,4.2,87
+235,Pulo Gadung,13538,Jl Sentul City,2967598,3.6,4.2,69
+236,Pulo Gadung,14017,Jl Senayan City,1871971,3.6,4.2,70
+237,Kelapa Sawit,14235,Jl Senayan City,2066560,3.6,3.2,79
+238,Kelapa Sawit,15598,Jl Senayan City,1206677,3.6,3.2,80
+239,Kelapa Sawit,14145,Jl Sentul City,344338,3.6,3.2,56
+240,Pulo Gadung,15458,Jl Sentul City,999041,3.6,3.2,87
+241,Pulo Gadung,13474,Jl Sudirman,234412,3.6,4.2,77
+242,Jogjakarta,15354,Jl Sentul City,2996627,3.6,4.2,64
+243,Pulo Gadung,14878,Jl Senayan City,73038,3.6,4.2,71
+244,Jogjakarta,14670,Jl Sentul City,2749181,3.6,3.2,61
+245,Kelapa Sawit,14386,Jl Senayan City,1496575,3.6,3.2,66
+246,Kelapa Sawit,14130,Jl Sentul City,1261261,3.6,3.2,57
+247,Jogjakarta,14123,Jl Sudirman,2388578,3.6,3.2,87
+248,Jogjakarta,13623,Jl Sudirman,1670342,3.6,3.2,61
+249,Kelapa Sawit,13737,Jl Senayan City,2989759,3.6,3.2,64
+250,Kelapa Sawit,14949,Jl Senayan City,2014091,3.6,4.2,80
+251,Kelapa Sawit,14325,Jl Senayan City,2234953,3.6,3.2,63
+252,Jogjakarta,15589,Jl Sentul City,2103150,3.6,3.2,88
+253,Jogjakarta,14211,Jl Senayan City,2883465,3.6,4.2,68
+254,Jogjakarta,14863,Jl Sudirman,1143587,3.6,3.2,88
+255,Jogjakarta,13762,Jl Sentul City,1317962,3.6,3.2,82
+256,Kelapa Sawit,13979,Jl Senayan City,2663330,3.6,4.2,61
+257,Kelapa Sawit,13976,Jl Sudirman,2487775,3.6,3.2,76
+258,Kelapa Sawit,15628,Jl Sentul City,1149299,3.6,4.2,81
+259,Jogjakarta,14070,Jl Senayan City,178850,3.6,4.2,58
+260,Jogjakarta,14990,Jl Sudirman,148401,3.6,4.2,66
+261,Jogjakarta,15261,Jl Sentul City,1993713,3.6,4.2,88
+262,Kelapa Sawit,14965,Jl Senayan City,1166011,3.6,3.2,84
+263,Pulo Gadung,14459,Jl Sentul City,1949673,3.6,3.2,62
+264,Jogjakarta,14404,Jl Sentul City,1917075,3.6,4.2,65
+265,Pulo Gadung,15330,Jl Sentul City,661364,3.6,3.2,64
+266,Pulo Gadung,15109,Jl Sentul City,554406,3.6,3.2,74
+267,Kelapa Sawit,14286,Jl Senayan City,296076,3.6,4.2,71
+268,Kelapa Sawit,14448,Jl Senayan City,1567103,3.6,4.2,71
+269,Kelapa Sawit,15173,Jl Senayan City,2781712,3.6,3.2,90
+270,Jogjakarta,14656,Jl Sudirman,76316,3.6,3.2,78
+271,Pulo Gadung,15644,Jl Senayan City,283278,3.6,4.2,71
+272,Jogjakarta,14556,Jl Senayan City,1306593,3.6,4.2,64
+273,Kelapa Sawit,13651,Jl Senayan City,1457485,3.6,4.2,67
+274,Jogjakarta,14852,Jl Sentul City,361125,3.6,4.2,87
+275,Jogjakarta,15554,Jl Sudirman,1105526,3.6,3.2,78
+276,Jogjakarta,13841,Jl Sentul City,2954007,3.6,3.2,67
+277,Pulo Gadung,14759,Jl Sentul City,1320155,3.6,4.2,87
+278,Jogjakarta,15006,Jl Sudirman,2959671,3.6,3.2,87
+279,Kelapa Sawit,15485,Jl Sudirman,1459948,3.6,3.2,66
+280,Jogjakarta,15097,Jl Sentul City,1741950,3.6,4.2,71
+281,Kelapa Sawit,15444,Jl Sentul City,1992115,3.6,4.2,84
+282,Kelapa Sawit,14857,Jl Senayan City,1320201,3.6,3.2,84
+283,Jogjakarta,14588,Jl Sudirman,2752421,3.6,3.2,66
+284,Pulo Gadung,15428,Jl Senayan City,2602829,3.6,3.2,61
+285,Pulo Gadung,15548,Jl Sudirman,1729878,3.6,3.2,82
+286,Kelapa Sawit,15120,Jl Senayan City,1519102,3.6,3.2,74
+287,Jogjakarta,13996,Jl Sentul City,2859235,3.6,4.2,67
+288,Kelapa Sawit,13541,Jl Sentul City,2910297,3.6,3.2,89
+289,Pulo Gadung,14306,Jl Sudirman,2434881,3.6,4.2,61
+290,Kelapa Sawit,15663,Jl Sentul City,774157,3.6,4.2,84
+291,Kelapa Sawit,13708,Jl Sudirman,2485293,3.6,4.2,78
+292,Pulo Gadung,15430,Jl Sudirman,1646068,3.6,3.2,65
+293,Jogjakarta,13609,Jl Sentul City,215040,3.6,3.2,74
+294,Jogjakarta,15529,Jl Sudirman,1221460,3.6,4.2,73
+295,Jogjakarta,15322,Jl Sudirman,1681485,3.6,4.2,74
+296,Kelapa Sawit,14633,Jl Senayan City,2866221,3.6,4.2,56
+297,Kelapa Sawit,14457,Jl Senayan City,1532860,3.6,3.2,76
+298,Kelapa Sawit,14343,Jl Sudirman,603941,3.6,3.2,75
+299,Jogjakarta,14057,Jl Sudirman,1851876,3.6,4.2,73
+300,Jogjakarta,13607,Jl Sentul City,342634,3.6,4.2,89
+301,Kelapa Sawit,14820,Jl Senayan City,1732567,3.6,4.2,59
+302,Jogjakarta,13755,Jl Sentul City,678993,3.6,3.2,86
+303,Kelapa Sawit,15019,Jl Senayan City,881533,3.6,3.2,58
+304,Pulo Gadung,14248,Jl Sentul City,802910,3.6,4.2,62
+305,Pulo Gadung,14419,Jl Sudirman,863070,3.6,4.2,86
+306,Kelapa Sawit,14935,Jl Senayan City,1354388,3.6,4.2,68
+307,Kelapa Sawit,14096,Jl Sudirman,93365,3.6,4.2,65
+308,Kelapa Sawit,14415,Jl Senayan City,447768,3.6,3.2,62
+309,Kelapa Sawit,14367,Jl Sudirman,1716283,3.6,4.2,81
+310,Pulo Gadung,14816,Jl Sudirman,357334,3.6,3.2,86
+311,Jogjakarta,14392,Jl Senayan City,1922772,3.6,4.2,61
+312,Kelapa Sawit,14231,Jl Sentul City,2038485,3.6,3.2,74
+313,Pulo Gadung,14629,Jl Senayan City,633707,3.6,3.2,62
+314,Jogjakarta,13570,Jl Sentul City,1878321,3.6,3.2,60
+315,Kelapa Sawit,15258,Jl Sentul City,1607681,3.6,3.2,90
+316,Pulo Gadung,14912,Jl Sudirman,1113777,3.6,4.2,85
+317,Jogjakarta,14184,Jl Sudirman,624841,3.6,4.2,62
+318,Kelapa Sawit,14242,Jl Senayan City,2278040,3.6,4.2,58
+319,Kelapa Sawit,14576,Jl Sentul City,197318,3.6,4.2,80
+320,Kelapa Sawit,15050,Jl Sudirman,2036625,3.6,3.2,56
+321,Kelapa Sawit,13867,Jl Sudirman,964881,3.6,3.2,59
+322,Kelapa Sawit,15599,Jl Sentul City,706673,3.6,4.2,59
+323,Kelapa Sawit,13695,Jl Senayan City,52032,3.6,4.2,59
+324,Kelapa Sawit,14010,Jl Sudirman,2239910,3.6,4.2,83
+325,Pulo Gadung,15076,Jl Sentul City,2599033,3.6,3.2,66
+326,Pulo Gadung,14268,Jl Sentul City,1684333,3.6,4.2,68
+327,Jogjakarta,15253,Jl Sudirman,541618,3.6,3.2,70
+328,Jogjakarta,13652,Jl Sentul City,1889399,3.6,4.2,58
+329,Kelapa Sawit,14983,Jl Sudirman,1401837,3.6,3.2,89
+330,Kelapa Sawit,13423,Jl Sentul City,2986488,3.6,4.2,62
+331,Jogjakarta,14684,Jl Senayan City,2561142,3.6,4.2,59
+332,Kelapa Sawit,13951,Jl Sudirman,1321590,3.6,4.2,83
+333,Kelapa Sawit,14298,Jl Senayan City,506946,3.6,3.2,84
+334,Kelapa Sawit,14876,Jl Sudirman,2585228,3.6,3.2,73
+335,Pulo Gadung,14298,Jl Senayan City,2583098,3.6,4.2,71
+336,Jogjakarta,13782,Jl Sentul City,600539,3.6,3.2,74
+337,Kelapa Sawit,15359,Jl Sudirman,1554912,3.6,3.2,71
+338,Jogjakarta,13419,Jl Sudirman,1735206,3.6,4.2,59
+339,Jogjakarta,13935,Jl Sudirman,1412495,3.6,4.2,73
+340,Pulo Gadung,15310,Jl Sudirman,1117386,3.6,3.2,62
+341,Pulo Gadung,14232,Jl Senayan City,1500418,3.6,3.2,68
+342,Pulo Gadung,14690,Jl Sudirman,2179451,3.6,3.2,74
+343,Kelapa Sawit,14831,Jl Sentul City,2054238,3.6,3.2,64
+344,Pulo Gadung,13456,Jl Sentul City,2001228,3.6,3.2,85
+345,Jogjakarta,14557,Jl Sudirman,755626,3.6,3.2,66
+346,Kelapa Sawit,13549,Jl Sudirman,1689215,3.6,4.2,72
+347,Jogjakarta,14693,Jl Sentul City,372576,3.6,4.2,85
+348,Pulo Gadung,13558,Jl Sentul City,756206,3.6,3.2,84
+349,Jogjakarta,14926,Jl Senayan City,2305350,3.6,3.2,82
+350,Pulo Gadung,14005,Jl Senayan City,1984705,3.6,3.2,76
+351,Jogjakarta,15289,Jl Sentul City,2553729,3.6,4.2,56
+352,Jogjakarta,15125,Jl Sudirman,1982067,3.6,4.2,68
+353,Jogjakarta,14428,Jl Senayan City,2683761,3.6,4.2,82
+354,Pulo Gadung,14042,Jl Sudirman,510251,3.6,3.2,89
+355,Kelapa Sawit,15071,Jl Senayan City,2564209,3.6,4.2,61
+356,Kelapa Sawit,13435,Jl Senayan City,1354691,3.6,4.2,66
+357,Jogjakarta,15106,Jl Sentul City,1336953,3.6,3.2,80
+358,Pulo Gadung,15434,Jl Sentul City,244857,3.6,4.2,79
+359,Pulo Gadung,14742,Jl Sentul City,222516,3.6,3.2,80
+360,Jogjakarta,14146,Jl Sudirman,959116,3.6,3.2,77
+361,Jogjakarta,13806,Jl Sudirman,1638982,3.6,3.2,84
+362,Kelapa Sawit,13911,Jl Senayan City,2155320,3.6,3.2,61
+363,Jogjakarta,15382,Jl Senayan City,976750,3.6,3.2,82
+364,Jogjakarta,13442,Jl Sentul City,1493514,3.6,4.2,90
+365,Jogjakarta,15235,Jl Senayan City,1316312,3.6,4.2,67
+366,Jogjakarta,13772,Jl Sudirman,2660795,3.6,3.2,65
+367,Pulo Gadung,14212,Jl Senayan City,2428193,3.6,4.2,82
+368,Pulo Gadung,14003,Jl Senayan City,2576418,3.6,3.2,56
+369,Jogjakarta,14088,Jl Senayan City,2631423,3.6,3.2,68
+370,Pulo Gadung,13701,Jl Sudirman,585477,3.6,3.2,60
+371,Jogjakarta,14896,Jl Sudirman,932951,3.6,4.2,64
+372,Pulo Gadung,14848,Jl Sudirman,1820599,3.6,3.2,79
+373,Kelapa Sawit,13902,Jl Senayan City,2589753,3.6,4.2,73
+374,Jogjakarta,14328,Jl Sentul City,2729772,3.6,3.2,85
+375,Kelapa Sawit,14278,Jl Sentul City,972768,3.6,4.2,64
+376,Kelapa Sawit,13843,Jl Sudirman,899477,3.6,3.2,74
+377,Kelapa Sawit,14528,Jl Sentul City,969942,3.6,4.2,73
+378,Jogjakarta,15599,Jl Sudirman,593224,3.6,4.2,65
+379,Jogjakarta,14222,Jl Sentul City,897328,3.6,4.2,73
+380,Jogjakarta,13809,Jl Senayan City,273258,3.6,3.2,72
+381,Jogjakarta,15599,Jl Senayan City,1698894,3.6,3.2,84
+382,Kelapa Sawit,14431,Jl Sudirman,1982413,3.6,3.2,58
+383,Jogjakarta,15627,Jl Sudirman,301454,3.6,4.2,63
+384,Kelapa Sawit,13706,Jl Sentul City,655756,3.6,4.2,65
+385,Jogjakarta,14040,Jl Sudirman,257375,3.6,3.2,60
+386,Kelapa Sawit,13778,Jl Sentul City,1210394,3.6,4.2,66
+387,Jogjakarta,15524,Jl Sudirman,508090,3.6,4.2,80
+388,Pulo Gadung,13773,Jl Senayan City,1414954,3.6,3.2,71
+389,Kelapa Sawit,14667,Jl Senayan City,183552,3.6,4.2,56
+390,Pulo Gadung,15484,Jl Senayan City,348158,3.6,4.2,87
+391,Pulo Gadung,15494,Jl Sentul City,1525950,3.6,3.2,70
+392,Pulo Gadung,15164,Jl Sudirman,2760237,3.6,4.2,90
+393,Pulo Gadung,13442,Jl Senayan City,1492661,3.6,4.2,89
+394,Pulo Gadung,13552,Jl Senayan City,323208,3.6,3.2,56
+395,Pulo Gadung,15658,Jl Senayan City,1047329,3.6,4.2,70
+396,Jogjakarta,15151,Jl Sentul City,898561,3.6,3.2,86
+397,Jogjakarta,14093,Jl Sentul City,97908,3.6,4.2,56
+398,Pulo Gadung,15427,Jl Sudirman,2841667,3.6,4.2,56
+399,Jogjakarta,15118,Jl Sudirman,81841,3.6,4.2,70
+400,Jogjakarta,14790,Jl Senayan City,904648,3.6,3.2,84
+401,Pulo Gadung,14086,Jl Senayan City,107077,3.6,4.2,74
+402,Jogjakarta,13746,Jl Sudirman,278833,3.6,4.2,77
+403,Jogjakarta,14121,Jl Sudirman,1468312,3.6,4.2,58
+404,Jogjakarta,15185,Jl Sentul City,1951750,3.6,4.2,67
+405,Pulo Gadung,15498,Jl Sudirman,2337616,3.6,4.2,66
+406,Kelapa Sawit,14188,Jl Sudirman,1742196,3.6,4.2,62
+407,Pulo Gadung,13712,Jl Senayan City,1754346,3.6,4.2,71
+408,Kelapa Sawit,14140,Jl Sentul City,585991,3.6,4.2,67
+409,Jogjakarta,15644,Jl Sentul City,1792322,3.6,3.2,74
+410,Jogjakarta,14299,Jl Senayan City,1550875,3.6,3.2,83
+411,Jogjakarta,14249,Jl Senayan City,1290808,3.6,3.2,63
+412,Kelapa Sawit,15099,Jl Sentul City,1227585,3.6,3.2,70
+413,Jogjakarta,15123,Jl Sentul City,891950,3.6,3.2,81
+414,Jogjakarta,14721,Jl Sentul City,1122460,3.6,3.2,66
+415,Jogjakarta,14027,Jl Sentul City,1324630,3.6,4.2,78
+416,Jogjakarta,15035,Jl Senayan City,1209666,3.6,3.2,75
+417,Pulo Gadung,15401,Jl Sentul City,1699132,3.6,3.2,58
+418,Kelapa Sawit,15387,Jl Sentul City,996778,3.6,4.2,72
+419,Pulo Gadung,13619,Jl Sentul City,2178805,3.6,4.2,82
+420,Jogjakarta,13714,Jl Sentul City,1080334,3.6,4.2,78
+421,Kelapa Sawit,13849,Jl Senayan City,503120,3.6,4.2,81
+422,Kelapa Sawit,13741,Jl Senayan City,2873814,3.6,3.2,64
+423,Kelapa Sawit,13570,Jl Senayan City,776802,3.6,3.2,74
+424,Pulo Gadung,15360,Jl Sudirman,559383,3.6,4.2,58
+425,Kelapa Sawit,14222,Jl Sudirman,1219063,3.6,3.2,90
+426,Jogjakarta,14322,Jl Sentul City,2146948,3.6,3.2,87
+427,Jogjakarta,14646,Jl Senayan City,565541,3.6,3.2,83
+428,Jogjakarta,14904,Jl Sentul City,313864,3.6,4.2,59
+429,Jogjakarta,15084,Jl Sudirman,1598147,3.6,4.2,89
+430,Kelapa Sawit,13927,Jl Sentul City,1324576,3.6,4.2,68
+431,Kelapa Sawit,14094,Jl Sudirman,1583506,3.6,4.2,77
+432,Jogjakarta,14523,Jl Sentul City,843015,3.6,3.2,70
+433,Kelapa Sawit,15298,Jl Sentul City,154096,3.6,4.2,77
+434,Kelapa Sawit,14657,Jl Sudirman,1183983,3.6,3.2,82
+435,Jogjakarta,14968,Jl Senayan City,1008625,3.6,4.2,72
+436,Pulo Gadung,14803,Jl Senayan City,32492,3.6,3.2,90
+437,Pulo Gadung,13794,Jl Senayan City,984281,3.6,3.2,71
+438,Kelapa Sawit,13872,Jl Sudirman,2509242,3.6,4.2,59
+439,Jogjakarta,13783,Jl Sentul City,2381821,3.6,4.2,90
+440,Kelapa Sawit,13659,Jl Sentul City,433904,3.6,3.2,59
+441,Pulo Gadung,13963,Jl Sudirman,1978336,3.6,3.2,77
+442,Kelapa Sawit,14125,Jl Sudirman,1842433,3.6,4.2,69
+443,Kelapa Sawit,13543,Jl Sudirman,1684571,3.6,4.2,79
+444,Kelapa Sawit,14777,Jl Sudirman,1577436,3.6,3.2,86
+445,Kelapa Sawit,14839,Jl Sentul City,2769001,3.6,3.2,90
+446,Kelapa Sawit,14682,Jl Sentul City,212972,3.6,4.2,60
+447,Jogjakarta,14969,Jl Senayan City,2322638,3.6,4.2,62
+448,Kelapa Sawit,13758,Jl Sentul City,1966627,3.6,3.2,77
+449,Kelapa Sawit,15389,Jl Sentul City,1282368,3.6,4.2,83
+450,Kelapa Sawit,13817,Jl Senayan City,409568,3.6,4.2,61
+451,Pulo Gadung,14639,Jl Senayan City,340509,3.6,3.2,85
+452,Pulo Gadung,13608,Jl Sudirman,1364024,3.6,4.2,81
+453,Kelapa Sawit,14028,Jl Sudirman,451501,3.6,3.2,82
+454,Kelapa Sawit,14057,Jl Senayan City,2063572,3.6,3.2,72
+455,Pulo Gadung,14896,Jl Sentul City,2997212,3.6,4.2,76
+456,Pulo Gadung,13553,Jl Senayan City,1763166,3.6,4.2,80
+457,Jogjakarta,14445,Jl Sentul City,109980,3.6,4.2,62
+458,Kelapa Sawit,13607,Jl Senayan City,371633,3.6,3.2,56
+459,Jogjakarta,15108,Jl Sudirman,2517535,3.6,3.2,62
+460,Kelapa Sawit,14841,Jl Sentul City,1428741,3.6,3.2,73
+461,Kelapa Sawit,13546,Jl Sentul City,297067,3.6,4.2,90
+462,Pulo Gadung,15648,Jl Senayan City,167230,3.6,4.2,66
+463,Jogjakarta,15631,Jl Senayan City,2566324,3.6,3.2,64
+464,Pulo Gadung,14886,Jl Sudirman,2850304,3.6,4.2,67
+465,Jogjakarta,14392,Jl Sudirman,1038508,3.6,3.2,63
+466,Pulo Gadung,15436,Jl Senayan City,1982224,3.6,3.2,61
+467,Jogjakarta,15529,Jl Senayan City,328097,3.6,4.2,85
+468,Kelapa Sawit,15059,Jl Sudirman,2148956,3.6,4.2,82
+469,Kelapa Sawit,13856,Jl Sudirman,1393156,3.6,3.2,56
+470,Jogjakarta,14308,Jl Senayan City,259347,3.6,4.2,78
+471,Pulo Gadung,14308,Jl Sentul City,481258,3.6,3.2,58
+472,Jogjakarta,13863,Jl Sentul City,174558,3.6,4.2,63
+473,Kelapa Sawit,14807,Jl Sentul City,1647288,3.6,3.2,57
+474,Kelapa Sawit,14987,Jl Senayan City,176538,3.6,3.2,66
+475,Pulo Gadung,13913,Jl Senayan City,2951345,3.6,3.2,81
+476,Kelapa Sawit,13595,Jl Sudirman,1212164,3.6,4.2,82
+477,Pulo Gadung,14929,Jl Sudirman,2498084,3.6,4.2,79
+478,Kelapa Sawit,14817,Jl Senayan City,1271965,3.6,4.2,60
+479,Kelapa Sawit,15224,Jl Senayan City,1338834,3.6,4.2,76
+480,Jogjakarta,14978,Jl Sudirman,130825,3.6,3.2,70
+481,Jogjakarta,13993,Jl Sudirman,2873600,3.6,4.2,87
+482,Jogjakarta,14368,Jl Sudirman,2820705,3.6,3.2,85
+483,Kelapa Sawit,13590,Jl Senayan City,2581251,3.6,4.2,75
+484,Jogjakarta,15009,Jl Senayan City,2930412,3.6,3.2,74
+485,Kelapa Sawit,13900,Jl Sentul City,2264538,3.6,4.2,84
+486,Kelapa Sawit,13438,Jl Sudirman,1743303,3.6,4.2,69
+487,Pulo Gadung,13480,Jl Sudirman,2474283,3.6,4.2,58
+488,Kelapa Sawit,14392,Jl Senayan City,1019251,3.6,3.2,70
+489,Kelapa Sawit,14949,Jl Sentul City,1028576,3.6,4.2,81
+490,Kelapa Sawit,15539,Jl Sentul City,339613,3.6,4.2,57
+491,Kelapa Sawit,13603,Jl Sentul City,880864,3.6,4.2,84
+492,Jogjakarta,14725,Jl Sudirman,2931598,3.6,4.2,79
+493,Jogjakarta,14974,Jl Sentul City,1703471,3.6,3.2,80
+494,Kelapa Sawit,15125,Jl Senayan City,291731,3.6,3.2,59
+495,Pulo Gadung,15038,Jl Senayan City,450436,3.6,4.2,60
+496,Jogjakarta,14198,Jl Sentul City,1858894,3.6,3.2,68
+497,Kelapa Sawit,15638,Jl Senayan City,460083,3.6,4.2,87
+498,Pulo Gadung,14972,Jl Senayan City,2277709,3.6,3.2,85
+499,Jogjakarta,14969,Jl Sudirman,1025864,3.6,3.2,73
+500,Jogjakarta,15663,Jl Sentul City,872010,3.6,4.2,56
+501,Kelapa Sawit,13802,Jl Senayan City,308984,3.6,4.2,59
+502,Kelapa Sawit,13463,Jl Senayan City,2677242,3.6,3.2,89
+503,Jogjakarta,15530,Jl Sudirman,824738,3.6,3.2,90
+504,Jogjakarta,13628,Jl Sudirman,1687183,3.6,3.2,74
+505,Kelapa Sawit,13924,Jl Sudirman,884567,3.6,3.2,70
+506,Pulo Gadung,14406,Jl Sudirman,2022864,3.6,4.2,66
+507,Kelapa Sawit,14216,Jl Sudirman,759361,3.6,3.2,65
+508,Pulo Gadung,15354,Jl Senayan City,914951,3.6,4.2,68
+509,Pulo Gadung,14499,Jl Sentul City,1553672,3.6,3.2,89
+510,Jogjakarta,14220,Jl Sentul City,1086852,3.6,3.2,64
+511,Pulo Gadung,14658,Jl Senayan City,2069186,3.6,3.2,70
+512,Jogjakarta,15367,Jl Sentul City,1695729,3.6,3.2,75
+513,Jogjakarta,14926,Jl Sentul City,1967937,3.6,4.2,73
+514,Pulo Gadung,15027,Jl Sudirman,2125393,3.6,4.2,61
+515,Kelapa Sawit,15654,Jl Senayan City,563229,3.6,4.2,80
+516,Pulo Gadung,15536,Jl Sentul City,2112944,3.6,4.2,67
+517,Jogjakarta,14188,Jl Senayan City,1082183,3.6,4.2,72
+518,Kelapa Sawit,14827,Jl Sudirman,1728692,3.6,4.2,76
+519,Kelapa Sawit,13851,Jl Sentul City,940857,3.6,3.2,81
+520,Pulo Gadung,13742,Jl Senayan City,1005087,3.6,4.2,69
+521,Kelapa Sawit,15263,Jl Sudirman,1313327,3.6,4.2,64
+522,Jogjakarta,14997,Jl Senayan City,1117941,3.6,4.2,65
+523,Pulo Gadung,14790,Jl Sudirman,2680985,3.6,4.2,88
+524,Pulo Gadung,14919,Jl Senayan City,2817496,3.6,4.2,66
+525,Jogjakarta,14004,Jl Senayan City,2187257,3.6,3.2,69
+526,Pulo Gadung,15257,Jl Sudirman,226488,3.6,3.2,82
+527,Pulo Gadung,13507,Jl Sentul City,905020,3.6,4.2,61
+528,Jogjakarta,14199,Jl Senayan City,1993012,3.6,3.2,84
+529,Pulo Gadung,14288,Jl Senayan City,2681825,3.6,4.2,76
+530,Pulo Gadung,14763,Jl Senayan City,734914,3.6,4.2,57
+531,Kelapa Sawit,14252,Jl Sudirman,949551,3.6,3.2,90
+532,Pulo Gadung,13937,Jl Sudirman,767916,3.6,4.2,88
+533,Pulo Gadung,15501,Jl Senayan City,101401,3.6,4.2,74
+534,Jogjakarta,14592,Jl Senayan City,2464697,3.6,4.2,77
+535,Jogjakarta,14793,Jl Senayan City,946517,3.6,3.2,71
+536,Pulo Gadung,14571,Jl Sentul City,2072601,3.6,3.2,77
+537,Pulo Gadung,14587,Jl Senayan City,441261,3.6,3.2,73
+538,Pulo Gadung,15478,Jl Senayan City,2601136,3.6,4.2,75
+539,Jogjakarta,14826,Jl Sudirman,2004347,3.6,3.2,85
+540,Jogjakarta,15018,Jl Senayan City,2544858,3.6,4.2,89
+541,Jogjakarta,14733,Jl Senayan City,499886,3.6,4.2,64
+542,Pulo Gadung,13869,Jl Sentul City,1379647,3.6,4.2,60
+543,Pulo Gadung,14696,Jl Sudirman,2928260,3.6,4.2,87
+544,Pulo Gadung,15222,Jl Sentul City,1255115,3.6,4.2,65
+545,Kelapa Sawit,15402,Jl Sudirman,2539167,3.6,3.2,84
+546,Jogjakarta,13900,Jl Sudirman,2804163,3.6,4.2,88
+547,Kelapa Sawit,15191,Jl Sudirman,1017769,3.6,3.2,67
+548,Jogjakarta,14826,Jl Senayan City,10393,3.6,4.2,84
+549,Kelapa Sawit,14237,Jl Sentul City,352475,3.6,4.2,60
+550,Kelapa Sawit,14056,Jl Senayan City,1419980,3.6,3.2,86
+551,Kelapa Sawit,15043,Jl Sentul City,748637,3.6,4.2,56
+552,Jogjakarta,15126,Jl Sentul City,1503888,3.6,4.2,62
+553,Kelapa Sawit,15365,Jl Sudirman,2420795,3.6,3.2,79
+554,Pulo Gadung,15466,Jl Sudirman,443179,3.6,3.2,75
+555,Pulo Gadung,15020,Jl Sentul City,2154688,3.6,3.2,85
+556,Pulo Gadung,14743,Jl Senayan City,332511,3.6,4.2,65
+557,Pulo Gadung,14897,Jl Sudirman,589156,3.6,4.2,63
+558,Pulo Gadung,13572,Jl Senayan City,1383355,3.6,3.2,85
+559,Jogjakarta,15615,Jl Sentul City,269617,3.6,4.2,64
+560,Kelapa Sawit,13596,Jl Sudirman,1177944,3.6,4.2,76
+561,Pulo Gadung,14505,Jl Sentul City,2140376,3.6,4.2,60
+562,Kelapa Sawit,14800,Jl Sudirman,1529530,3.6,4.2,79
+563,Pulo Gadung,14026,Jl Sentul City,716467,3.6,3.2,87
+564,Kelapa Sawit,13873,Jl Sentul City,1670155,3.6,4.2,86
+565,Jogjakarta,13641,Jl Sudirman,1694647,3.6,3.2,77
+566,Pulo Gadung,15157,Jl Senayan City,1889589,3.6,3.2,56
+567,Jogjakarta,14440,Jl Senayan City,1592623,3.6,4.2,72
+568,Pulo Gadung,13425,Jl Sudirman,417864,3.6,4.2,87
+569,Pulo Gadung,14309,Jl Senayan City,567904,3.6,3.2,67
+570,Pulo Gadung,15483,Jl Senayan City,2423348,3.6,3.2,86
+571,Pulo Gadung,13962,Jl Senayan City,10667,3.6,4.2,77
+572,Pulo Gadung,13474,Jl Sudirman,1906920,3.6,3.2,89
+573,Pulo Gadung,14606,Jl Sudirman,2755722,3.6,4.2,84
+574,Pulo Gadung,13958,Jl Senayan City,323131,3.6,4.2,87
+575,Jogjakarta,14627,Jl Sentul City,2770304,3.6,4.2,77
+576,Pulo Gadung,14331,Jl Senayan City,2507105,3.6,3.2,65
+577,Jogjakarta,15224,Jl Sentul City,1527385,3.6,3.2,58
+578,Jogjakarta,13857,Jl Sudirman,204383,3.6,4.2,69
+579,Kelapa Sawit,15391,Jl Sentul City,2811106,3.6,3.2,70
+580,Kelapa Sawit,15457,Jl Sudirman,183897,3.6,3.2,62
+581,Jogjakarta,14265,Jl Senayan City,2537581,3.6,4.2,75
+582,Jogjakarta,15584,Jl Sudirman,1656628,3.6,3.2,60
+583,Jogjakarta,15134,Jl Sudirman,2877732,3.6,3.2,83
+584,Jogjakarta,15667,Jl Senayan City,1278552,3.6,4.2,73
+585,Jogjakarta,14708,Jl Sentul City,1705325,3.6,3.2,59
+586,Kelapa Sawit,15444,Jl Senayan City,1181478,3.6,4.2,69
+587,Kelapa Sawit,15512,Jl Senayan City,150509,3.6,3.2,82
+588,Jogjakarta,14528,Jl Sentul City,924577,3.6,3.2,89
+589,Kelapa Sawit,14047,Jl Sudirman,2809561,3.6,3.2,81
+590,Pulo Gadung,14819,Jl Sentul City,2849798,3.6,3.2,71
+591,Pulo Gadung,15124,Jl Sudirman,2548169,3.6,4.2,84
+592,Kelapa Sawit,13725,Jl Sentul City,956614,3.6,3.2,68
+593,Pulo Gadung,14651,Jl Sentul City,1467118,3.6,4.2,75
+594,Kelapa Sawit,14396,Jl Senayan City,2294986,3.6,4.2,58
+595,Pulo Gadung,14271,Jl Sudirman,2062624,3.6,4.2,69
+596,Kelapa Sawit,14056,Jl Sudirman,2413033,3.6,3.2,74
+597,Jogjakarta,14836,Jl Sudirman,1233258,3.6,4.2,73
+598,Pulo Gadung,13832,Jl Senayan City,964969,3.6,3.2,81
+599,Jogjakarta,13811,Jl Sentul City,2554440,3.6,4.2,66
+600,Kelapa Sawit,14417,Jl Senayan City,348025,3.6,3.2,59
+601,Kelapa Sawit,15401,Jl Sudirman,630046,3.6,3.2,80
+602,Kelapa Sawit,15066,Jl Senayan City,999305,3.6,4.2,89
+603,Kelapa Sawit,14888,Jl Sudirman,2790217,3.6,3.2,62
+604,Jogjakarta,14802,Jl Sentul City,2149201,3.6,3.2,85
+605,Jogjakarta,15434,Jl Senayan City,2822148,3.6,4.2,67
+606,Kelapa Sawit,14856,Jl Sudirman,2086039,3.6,3.2,57
+607,Jogjakarta,14870,Jl Sudirman,937655,3.6,3.2,90
+608,Pulo Gadung,14179,Jl Sudirman,539397,3.6,4.2,87
+609,Kelapa Sawit,15567,Jl Sentul City,2613152,3.6,3.2,66
+610,Kelapa Sawit,14186,Jl Sudirman,2515692,3.6,4.2,63
+611,Kelapa Sawit,13765,Jl Senayan City,1037736,3.6,4.2,56
+612,Jogjakarta,14920,Jl Senayan City,1623984,3.6,4.2,71
+613,Jogjakarta,14310,Jl Sudirman,1815187,3.6,4.2,64
+614,Kelapa Sawit,15651,Jl Senayan City,2594745,3.6,3.2,69
+615,Pulo Gadung,15015,Jl Sudirman,310906,3.6,4.2,70
+616,Kelapa Sawit,14698,Jl Sudirman,2008548,3.6,3.2,66
+617,Kelapa Sawit,13507,Jl Sentul City,1767017,3.6,4.2,64
+618,Jogjakarta,15349,Jl Sudirman,1183048,3.6,4.2,64
+619,Jogjakarta,14266,Jl Senayan City,1192445,3.6,3.2,82
+620,Jogjakarta,13435,Jl Senayan City,1966809,3.6,3.2,87
+621,Pulo Gadung,15282,Jl Senayan City,242930,3.6,3.2,88
+622,Kelapa Sawit,14071,Jl Senayan City,1306158,3.6,3.2,67
+623,Jogjakarta,13835,Jl Senayan City,2489224,3.6,4.2,86
+624,Jogjakarta,14553,Jl Sentul City,744555,3.6,3.2,76
+625,Pulo Gadung,15417,Jl Sudirman,677466,3.6,3.2,57
+626,Kelapa Sawit,13529,Jl Sudirman,2167412,3.6,3.2,84
+627,Jogjakarta,13792,Jl Sudirman,1721353,3.6,4.2,64
+628,Jogjakarta,14814,Jl Sentul City,1009152,3.6,3.2,90
+629,Pulo Gadung,15593,Jl Sudirman,715766,3.6,4.2,58
+630,Pulo Gadung,14063,Jl Sudirman,426087,3.6,4.2,84
+631,Pulo Gadung,14669,Jl Senayan City,122303,3.6,4.2,57
+632,Jogjakarta,14477,Jl Sentul City,1694050,3.6,3.2,71
+633,Kelapa Sawit,13441,Jl Sudirman,2942551,3.6,4.2,71
+634,Kelapa Sawit,14856,Jl Sudirman,1569364,3.6,4.2,73
+635,Jogjakarta,13709,Jl Senayan City,522669,3.6,4.2,72
+636,Pulo Gadung,13737,Jl Sentul City,735024,3.6,4.2,86
+637,Jogjakarta,14554,Jl Sentul City,639399,3.6,4.2,61
+638,Kelapa Sawit,14288,Jl Senayan City,1503986,3.6,3.2,73
+639,Pulo Gadung,15463,Jl Sentul City,20047,3.6,4.2,89
+640,Jogjakarta,14555,Jl Sudirman,2612683,3.6,3.2,65
+641,Kelapa Sawit,15538,Jl Sudirman,2011399,3.6,3.2,61
+642,Jogjakarta,14730,Jl Sentul City,1973892,3.6,4.2,77
+643,Kelapa Sawit,13454,Jl Sentul City,1117922,3.6,4.2,64
+644,Pulo Gadung,13978,Jl Sentul City,1129212,3.6,4.2,79
+645,Kelapa Sawit,15112,Jl Sudirman,2406941,3.6,4.2,72
+646,Kelapa Sawit,14920,Jl Sentul City,614771,3.6,4.2,58
+647,Kelapa Sawit,13489,Jl Sudirman,928466,3.6,4.2,56
+648,Pulo Gadung,14107,Jl Senayan City,1207034,3.6,3.2,71
+649,Jogjakarta,15231,Jl Sudirman,2970237,3.6,4.2,84
+650,Kelapa Sawit,13689,Jl Sentul City,1916214,3.6,4.2,60
+651,Kelapa Sawit,13888,Jl Senayan City,243350,3.6,3.2,70
+652,Kelapa Sawit,15218,Jl Sentul City,1744844,3.6,3.2,78
+653,Jogjakarta,14780,Jl Sudirman,653643,3.6,4.2,73
+654,Jogjakarta,14884,Jl Sudirman,2403529,3.6,4.2,82
+655,Jogjakarta,14664,Jl Sentul City,2185235,3.6,4.2,90
+656,Pulo Gadung,14053,Jl Sudirman,1557425,3.6,4.2,64
+657,Kelapa Sawit,15285,Jl Senayan City,2424411,3.6,4.2,65
+658,Pulo Gadung,14897,Jl Senayan City,2561400,3.6,3.2,79
+659,Jogjakarta,15140,Jl Senayan City,2707939,3.6,4.2,82
+660,Jogjakarta,14567,Jl Senayan City,1708819,3.6,3.2,67
+661,Jogjakarta,13464,Jl Sudirman,1422349,3.6,4.2,77
+662,Pulo Gadung,13462,Jl Senayan City,786113,3.6,3.2,72
+663,Kelapa Sawit,15076,Jl Sudirman,1161726,3.6,3.2,73
+664,Jogjakarta,13909,Jl Sentul City,2243139,3.6,3.2,56
+665,Pulo Gadung,13962,Jl Sudirman,331115,3.6,4.2,73
+666,Pulo Gadung,14632,Jl Sudirman,169879,3.6,3.2,79
+667,Jogjakarta,15121,Jl Sentul City,1413118,3.6,4.2,57
+668,Jogjakarta,14727,Jl Senayan City,1207167,3.6,4.2,64
+669,Pulo Gadung,14922,Jl Senayan City,803199,3.6,3.2,69
+670,Pulo Gadung,14334,Jl Sudirman,2325427,3.6,4.2,69
+671,Kelapa Sawit,14002,Jl Sudirman,2519451,3.6,4.2,60
+672,Jogjakarta,15510,Jl Senayan City,1762802,3.6,3.2,72
+673,Kelapa Sawit,15202,Jl Senayan City,823331,3.6,4.2,78
+674,Pulo Gadung,15047,Jl Sentul City,1359066,3.6,3.2,67
+675,Pulo Gadung,13483,Jl Sentul City,1389374,3.6,4.2,89
+676,Pulo Gadung,14941,Jl Senayan City,443272,3.6,3.2,89
+677,Kelapa Sawit,13484,Jl Sentul City,1930187,3.6,3.2,67
+678,Kelapa Sawit,14672,Jl Senayan City,1809319,3.6,4.2,68
+679,Pulo Gadung,13903,Jl Sudirman,756092,3.6,3.2,79
+680,Kelapa Sawit,14617,Jl Senayan City,80326,3.6,3.2,75
+681,Jogjakarta,14436,Jl Senayan City,1077632,3.6,3.2,78
+682,Jogjakarta,15036,Jl Senayan City,1129096,3.6,4.2,66
+683,Jogjakarta,13775,Jl Sudirman,2828243,3.6,4.2,57
+684,Jogjakarta,15482,Jl Sudirman,2451482,3.6,4.2,64
+685,Jogjakarta,13477,Jl Senayan City,2986643,3.6,3.2,81
+686,Jogjakarta,14405,Jl Senayan City,1227106,3.6,3.2,66
+687,Pulo Gadung,14773,Jl Sudirman,1712421,3.6,4.2,75
+688,Jogjakarta,15169,Jl Senayan City,139477,3.6,4.2,80
+689,Jogjakarta,15017,Jl Senayan City,1680144,3.6,3.2,89
+690,Jogjakarta,15129,Jl Senayan City,106860,3.6,3.2,76
+691,Pulo Gadung,13683,Jl Sentul City,776195,3.6,4.2,71
+692,Pulo Gadung,13585,Jl Sudirman,1959063,3.6,3.2,87
+693,Jogjakarta,15466,Jl Sudirman,1411096,3.6,4.2,90
+694,Jogjakarta,15067,Jl Senayan City,1205149,3.6,3.2,73
+695,Jogjakarta,15123,Jl Sentul City,658060,3.6,4.2,85
+696,Jogjakarta,14232,Jl Sudirman,1129366,3.6,3.2,88
+697,Pulo Gadung,13490,Jl Sentul City,2288317,3.6,3.2,67
+698,Pulo Gadung,14531,Jl Sudirman,460986,3.6,3.2,90
+699,Jogjakarta,14003,Jl Sentul City,2137992,3.6,3.2,74
+700,Jogjakarta,15003,Jl Sudirman,1499943,3.6,4.2,80
+701,Pulo Gadung,14156,Jl Sudirman,1916758,3.6,4.2,81
+702,Pulo Gadung,13898,Jl Sudirman,2188217,3.6,3.2,81
+703,Jogjakarta,15064,Jl Sentul City,201343,3.6,4.2,65
+704,Pulo Gadung,15152,Jl Sudirman,2112369,3.6,4.2,89
+705,Jogjakarta,14990,Jl Sentul City,215256,3.6,4.2,90
+706,Pulo Gadung,13418,Jl Sentul City,987860,3.6,3.2,77
+707,Kelapa Sawit,15464,Jl Senayan City,437846,3.6,4.2,56
+708,Pulo Gadung,14688,Jl Senayan City,591009,3.6,3.2,77
+709,Jogjakarta,15336,Jl Senayan City,917181,3.6,3.2,56
+710,Pulo Gadung,14007,Jl Sudirman,99457,3.6,4.2,63
+711,Jogjakarta,13638,Jl Sentul City,53603,3.6,3.2,88
+712,Pulo Gadung,13463,Jl Senayan City,23381,3.6,3.2,65
+713,Jogjakarta,14274,Jl Sudirman,301571,3.6,4.2,72
+714,Jogjakarta,14704,Jl Sentul City,1387511,3.6,4.2,66
+715,Jogjakarta,15475,Jl Sentul City,2163066,3.6,3.2,80
+716,Jogjakarta,14432,Jl Sudirman,2953188,3.6,3.2,70
+717,Jogjakarta,15535,Jl Sudirman,1408280,3.6,4.2,75
+718,Kelapa Sawit,13447,Jl Senayan City,1140371,3.6,4.2,64
+719,Pulo Gadung,14138,Jl Senayan City,2843901,3.6,3.2,81
+720,Kelapa Sawit,15420,Jl Sudirman,388412,3.6,4.2,88
+721,Pulo Gadung,15639,Jl Sudirman,1777844,3.6,4.2,58
+722,Pulo Gadung,13748,Jl Sentul City,2552064,3.6,3.2,58
+723,Jogjakarta,14416,Jl Sudirman,2700755,3.6,3.2,75
+724,Kelapa Sawit,15205,Jl Sentul City,605961,3.6,3.2,88
+725,Pulo Gadung,14446,Jl Sudirman,2610675,3.6,3.2,57
+726,Jogjakarta,13507,Jl Senayan City,550389,3.6,4.2,67
+727,Pulo Gadung,13487,Jl Sudirman,408754,3.6,4.2,90
+728,Pulo Gadung,14651,Jl Senayan City,2823040,3.6,4.2,58
+729,Jogjakarta,13560,Jl Sentul City,515736,3.6,3.2,59
+730,Pulo Gadung,15358,Jl Senayan City,1971536,3.6,3.2,70
+731,Jogjakarta,14052,Jl Senayan City,2073333,3.6,3.2,83
+732,Kelapa Sawit,15048,Jl Senayan City,1864861,3.6,4.2,89
+733,Pulo Gadung,15348,Jl Sudirman,792660,3.6,4.2,63
+734,Jogjakarta,13984,Jl Sudirman,936652,3.6,4.2,71
+735,Jogjakarta,15041,Jl Sentul City,1691150,3.6,3.2,69
+736,Pulo Gadung,15520,Jl Sudirman,340857,3.6,3.2,61
+737,Jogjakarta,13644,Jl Senayan City,2841320,3.6,3.2,85
+738,Kelapa Sawit,14411,Jl Sudirman,292670,3.6,3.2,58
+739,Pulo Gadung,15308,Jl Sentul City,171519,3.6,4.2,71
+740,Kelapa Sawit,14961,Jl Senayan City,2465474,3.6,3.2,66
+741,Pulo Gadung,15471,Jl Senayan City,1958809,3.6,3.2,62
+742,Kelapa Sawit,14998,Jl Senayan City,1761475,3.6,3.2,60
+743,Jogjakarta,15371,Jl Senayan City,208762,3.6,3.2,81
+744,Kelapa Sawit,15132,Jl Senayan City,1479638,3.6,4.2,61
+745,Jogjakarta,15105,Jl Senayan City,1726316,3.6,3.2,62
+746,Kelapa Sawit,14568,Jl Senayan City,2539408,3.6,4.2,80
+747,Pulo Gadung,13911,Jl Sentul City,1596628,3.6,3.2,64
+748,Pulo Gadung,14852,Jl Senayan City,1001894,3.6,4.2,64
+749,Pulo Gadung,13611,Jl Senayan City,699015,3.6,3.2,61
+750,Kelapa Sawit,14165,Jl Sentul City,2961939,3.6,3.2,56
+751,Pulo Gadung,14377,Jl Senayan City,601965,3.6,4.2,74
+752,Jogjakarta,15331,Jl Sudirman,2481388,3.6,3.2,83
+753,Jogjakarta,14939,Jl Senayan City,1900259,3.6,3.2,88
+754,Jogjakarta,15611,Jl Senayan City,1643901,3.6,3.2,67
+755,Pulo Gadung,14508,Jl Sudirman,569326,3.6,3.2,73
+756,Jogjakarta,15071,Jl Senayan City,2034582,3.6,3.2,58
+757,Kelapa Sawit,15017,Jl Sentul City,1391231,3.6,3.2,82
+758,Kelapa Sawit,13948,Jl Senayan City,1119673,3.6,3.2,74
+759,Pulo Gadung,14083,Jl Sudirman,1822271,3.6,3.2,77
+760,Pulo Gadung,13481,Jl Sentul City,2370885,3.6,4.2,76
+761,Kelapa Sawit,13733,Jl Sudirman,409829,3.6,4.2,77
+762,Jogjakarta,14878,Jl Sudirman,2507997,3.6,4.2,88
+763,Jogjakarta,15148,Jl Senayan City,2877389,3.6,3.2,63
+764,Jogjakarta,15217,Jl Sudirman,473978,3.6,4.2,64
+765,Jogjakarta,15574,Jl Sudirman,398323,3.6,4.2,60
+766,Kelapa Sawit,14520,Jl Sentul City,1113328,3.6,3.2,78
+767,Kelapa Sawit,15027,Jl Sentul City,2500205,3.6,3.2,56
+768,Kelapa Sawit,13928,Jl Sudirman,2333072,3.6,4.2,56
+769,Jogjakarta,15054,Jl Sentul City,792245,3.6,4.2,82
+770,Kelapa Sawit,14892,Jl Sudirman,1322714,3.6,3.2,73
+771,Pulo Gadung,14310,Jl Sentul City,1658582,3.6,3.2,77
+772,Jogjakarta,14719,Jl Senayan City,1880030,3.6,3.2,83
+773,Kelapa Sawit,13989,Jl Sudirman,2308656,3.6,3.2,87
+774,Pulo Gadung,14600,Jl Sentul City,1163069,3.6,3.2,86
+775,Jogjakarta,15467,Jl Sentul City,2537162,3.6,4.2,78
+776,Pulo Gadung,14021,Jl Sentul City,2540833,3.6,3.2,60
+777,Kelapa Sawit,13746,Jl Senayan City,2408409,3.6,3.2,66
+778,Jogjakarta,13740,Jl Sentul City,877158,3.6,4.2,74
+779,Jogjakarta,15667,Jl Senayan City,320954,3.6,3.2,59
+780,Jogjakarta,14944,Jl Sentul City,1264426,3.6,4.2,81
+781,Jogjakarta,14709,Jl Sentul City,645374,3.6,4.2,60
+782,Pulo Gadung,14389,Jl Sudirman,1000635,3.6,4.2,89
+783,Pulo Gadung,14933,Jl Senayan City,2716327,3.6,4.2,67
+784,Jogjakarta,15185,Jl Sentul City,2778106,3.6,4.2,83
+785,Jogjakarta,13413,Jl Sudirman,2782733,3.6,4.2,77
+786,Jogjakarta,14671,Jl Senayan City,611266,3.6,3.2,60
+787,Pulo Gadung,13461,Jl Senayan City,2115264,3.6,4.2,76
+788,Kelapa Sawit,13683,Jl Sentul City,1257608,3.6,4.2,79
+789,Kelapa Sawit,14389,Jl Sudirman,1032770,3.6,4.2,62
+790,Pulo Gadung,14017,Jl Sudirman,878167,3.6,3.2,90
+791,Pulo Gadung,13734,Jl Sentul City,2254257,3.6,4.2,88
+792,Kelapa Sawit,13424,Jl Sudirman,1489988,3.6,3.2,71
+793,Pulo Gadung,13948,Jl Senayan City,1983955,3.6,3.2,56
+794,Pulo Gadung,14729,Jl Sudirman,599553,3.6,3.2,70
+795,Kelapa Sawit,15245,Jl Senayan City,2358999,3.6,4.2,72
+796,Jogjakarta,14600,Jl Senayan City,2899267,3.6,3.2,61
+797,Kelapa Sawit,13991,Jl Senayan City,1542973,3.6,4.2,72
+798,Pulo Gadung,14187,Jl Sentul City,2568576,3.6,3.2,76
+799,Jogjakarta,15223,Jl Sudirman,1856118,3.6,4.2,59
+800,Kelapa Sawit,14495,Jl Senayan City,1921053,3.6,4.2,65
+801,Jogjakarta,14419,Jl Sentul City,189990,3.6,3.2,71
+802,Kelapa Sawit,15479,Jl Sentul City,1480818,3.6,3.2,84
+803,Jogjakarta,14014,Jl Senayan City,875999,3.6,3.2,72
+804,Kelapa Sawit,13823,Jl Sudirman,2870740,3.6,3.2,71
+805,Jogjakarta,15280,Jl Senayan City,832366,3.6,3.2,73
+806,Jogjakarta,13517,Jl Sudirman,1920825,3.6,4.2,64
+807,Pulo Gadung,13897,Jl Sudirman,747997,3.6,3.2,82
+808,Jogjakarta,13743,Jl Senayan City,562897,3.6,4.2,83
+809,Jogjakarta,13518,Jl Senayan City,2244556,3.6,4.2,67
+810,Jogjakarta,14369,Jl Sentul City,1249524,3.6,4.2,62
+811,Pulo Gadung,15274,Jl Sudirman,1597864,3.6,4.2,76
+812,Pulo Gadung,14153,Jl Sudirman,1055122,3.6,3.2,63
+813,Kelapa Sawit,14244,Jl Sentul City,1128807,3.6,3.2,59
+814,Jogjakarta,15232,Jl Sentul City,2844392,3.6,3.2,63
+815,Jogjakarta,13662,Jl Sudirman,1808272,3.6,3.2,80
+816,Pulo Gadung,14826,Jl Senayan City,2964814,3.6,3.2,78
+817,Pulo Gadung,14988,Jl Senayan City,2790321,3.6,4.2,66
+818,Pulo Gadung,14804,Jl Senayan City,1503667,3.6,4.2,66
+819,Pulo Gadung,13813,Jl Sentul City,2962592,3.6,3.2,67
+820,Jogjakarta,14694,Jl Senayan City,457436,3.6,4.2,71
+821,Jogjakarta,13623,Jl Sentul City,539728,3.6,3.2,78
+822,Pulo Gadung,15107,Jl Sudirman,1154253,3.6,4.2,90
+823,Kelapa Sawit,14293,Jl Sentul City,2835757,3.6,3.2,61
+824,Kelapa Sawit,15209,Jl Sudirman,2360481,3.6,3.2,73
+825,Pulo Gadung,14847,Jl Sentul City,1642173,3.6,4.2,72
+826,Kelapa Sawit,15369,Jl Sentul City,432999,3.6,3.2,73
+827,Kelapa Sawit,13882,Jl Sentul City,1491314,3.6,4.2,71
+828,Kelapa Sawit,14195,Jl Sentul City,2455863,3.6,3.2,75
+829,Kelapa Sawit,13484,Jl Senayan City,604893,3.6,4.2,65
+830,Jogjakarta,14054,Jl Senayan City,2725835,3.6,4.2,76
+831,Pulo Gadung,13942,Jl Sentul City,1064882,3.6,3.2,87
+832,Jogjakarta,14958,Jl Sentul City,1208691,3.6,3.2,56
+833,Jogjakarta,15316,Jl Sudirman,1238606,3.6,3.2,81
+834,Pulo Gadung,13830,Jl Sudirman,1541761,3.6,3.2,61
+835,Jogjakarta,15292,Jl Senayan City,1540907,3.6,4.2,69
+836,Pulo Gadung,14708,Jl Sudirman,2149418,3.6,3.2,60
+837,Pulo Gadung,14825,Jl Sentul City,1138208,3.6,3.2,77
+838,Kelapa Sawit,14590,Jl Senayan City,1324722,3.6,4.2,63
+839,Kelapa Sawit,15444,Jl Sentul City,2739942,3.6,4.2,61
+840,Kelapa Sawit,14439,Jl Sentul City,568060,3.6,4.2,62
+841,Kelapa Sawit,14884,Jl Sentul City,1657782,3.6,3.2,90
+842,Jogjakarta,14753,Jl Senayan City,1845503,3.6,4.2,84
+843,Kelapa Sawit,13740,Jl Sentul City,2836399,3.6,3.2,60
+844,Pulo Gadung,15047,Jl Senayan City,2557126,3.6,4.2,59
+845,Jogjakarta,14934,Jl Senayan City,1116803,3.6,4.2,73
+846,Pulo Gadung,14288,Jl Sentul City,590066,3.6,3.2,75
+847,Pulo Gadung,14265,Jl Senayan City,2366383,3.6,3.2,71
+848,Kelapa Sawit,14956,Jl Senayan City,1616874,3.6,4.2,75
+849,Kelapa Sawit,15649,Jl Sentul City,61045,3.6,4.2,80
+850,Jogjakarta,14203,Jl Senayan City,1094556,3.6,4.2,68
+851,Jogjakarta,14747,Jl Senayan City,2984876,3.6,4.2,70
+852,Jogjakarta,14195,Jl Sudirman,567305,3.6,3.2,77
+853,Jogjakarta,15471,Jl Sentul City,2286523,3.6,4.2,88
+854,Kelapa Sawit,14911,Jl Senayan City,2046927,3.6,4.2,75
+855,Kelapa Sawit,15168,Jl Senayan City,2888695,3.6,4.2,74
+856,Jogjakarta,13450,Jl Senayan City,1872147,3.6,3.2,85
+857,Pulo Gadung,14310,Jl Sudirman,2849008,3.6,3.2,72
+858,Pulo Gadung,14219,Jl Senayan City,1840194,3.6,4.2,89
+859,Kelapa Sawit,14285,Jl Senayan City,149906,3.6,4.2,87
+860,Pulo Gadung,13954,Jl Sentul City,2516080,3.6,3.2,80
+861,Pulo Gadung,13415,Jl Sudirman,1592716,3.6,3.2,73
+862,Jogjakarta,14671,Jl Sentul City,2771316,3.6,4.2,64
+863,Jogjakarta,15241,Jl Sentul City,2038845,3.6,4.2,61
+864,Jogjakarta,14160,Jl Sentul City,189375,3.6,4.2,90
+865,Pulo Gadung,14395,Jl Senayan City,924979,3.6,3.2,90
+866,Pulo Gadung,13637,Jl Senayan City,2373669,3.6,3.2,72
+867,Kelapa Sawit,13447,Jl Sentul City,2113969,3.6,4.2,82
+868,Kelapa Sawit,14900,Jl Sudirman,1709439,3.6,4.2,85
+869,Pulo Gadung,14611,Jl Senayan City,774941,3.6,3.2,87
+870,Kelapa Sawit,14253,Jl Senayan City,209494,3.6,4.2,77
+871,Kelapa Sawit,14205,Jl Sudirman,956074,3.6,3.2,88
+872,Pulo Gadung,15500,Jl Sentul City,1680000,3.6,4.2,57
+873,Kelapa Sawit,14960,Jl Sudirman,2126382,3.6,4.2,56
+874,Jogjakarta,14528,Jl Senayan City,1804659,3.6,4.2,71
+875,Jogjakarta,14947,Jl Sentul City,1217862,3.6,4.2,72
+876,Jogjakarta,15465,Jl Sentul City,704810,3.6,4.2,66
+877,Pulo Gadung,13608,Jl Senayan City,2544646,3.6,4.2,57
+878,Kelapa Sawit,14805,Jl Sudirman,2396028,3.6,4.2,66
+879,Kelapa Sawit,14408,Jl Sudirman,1852323,3.6,3.2,81
+880,Jogjakarta,13664,Jl Senayan City,1086278,3.6,4.2,75
+881,Kelapa Sawit,14338,Jl Sentul City,1380758,3.6,4.2,90
+882,Kelapa Sawit,15028,Jl Sentul City,544061,3.6,3.2,84
+883,Kelapa Sawit,15116,Jl Senayan City,817698,3.6,4.2,62
+884,Jogjakarta,15433,Jl Sudirman,1910983,3.6,3.2,89
+885,Jogjakarta,15305,Jl Sudirman,839182,3.6,4.2,68
+886,Pulo Gadung,14224,Jl Senayan City,555493,3.6,4.2,60
+887,Pulo Gadung,13937,Jl Sentul City,1945052,3.6,4.2,64
+888,Kelapa Sawit,13508,Jl Senayan City,83953,3.6,4.2,79
+889,Kelapa Sawit,15236,Jl Sudirman,380536,3.6,4.2,87
+890,Pulo Gadung,13497,Jl Sudirman,1091587,3.6,4.2,62
+891,Jogjakarta,13915,Jl Sudirman,2763640,3.6,3.2,86
+892,Jogjakarta,14202,Jl Sudirman,2230792,3.6,4.2,74
+893,Pulo Gadung,15394,Jl Sentul City,2423866,3.6,3.2,90
+894,Jogjakarta,14133,Jl Sudirman,1790434,3.6,4.2,86
+895,Kelapa Sawit,15176,Jl Sentul City,2052723,3.6,3.2,57
+896,Jogjakarta,14023,Jl Sentul City,2733773,3.6,4.2,58
+897,Kelapa Sawit,14932,Jl Sudirman,2579969,3.6,3.2,74
+898,Jogjakarta,13941,Jl Sudirman,778959,3.6,4.2,67
+899,Pulo Gadung,15586,Jl Senayan City,2677342,3.6,4.2,86
+900,Jogjakarta,15262,Jl Sentul City,2289464,3.6,3.2,76
+901,Pulo Gadung,13977,Jl Sudirman,602568,3.6,3.2,83
+902,Jogjakarta,13868,Jl Sudirman,2820657,3.6,3.2,61
+903,Pulo Gadung,15612,Jl Sentul City,1166649,3.6,4.2,59
+904,Kelapa Sawit,14870,Jl Senayan City,1402999,3.6,4.2,81
+905,Pulo Gadung,13630,Jl Sentul City,65421,3.6,3.2,61
+906,Pulo Gadung,15002,Jl Sudirman,432155,3.6,4.2,72
+907,Jogjakarta,14926,Jl Sentul City,2201441,3.6,4.2,73
+908,Pulo Gadung,13603,Jl Sentul City,753383,3.6,4.2,63
+909,Kelapa Sawit,14713,Jl Sudirman,1803797,3.6,3.2,85
+910,Pulo Gadung,13995,Jl Sudirman,2755465,3.6,3.2,87
+911,Kelapa Sawit,13672,Jl Sudirman,336866,3.6,4.2,89
+912,Jogjakarta,13786,Jl Sudirman,2778901,3.6,3.2,57
+913,Kelapa Sawit,15171,Jl Sudirman,702526,3.6,3.2,84
+914,Jogjakarta,13552,Jl Sentul City,140008,3.6,3.2,68
+915,Kelapa Sawit,14201,Jl Sudirman,1858944,3.6,4.2,79
+916,Kelapa Sawit,14309,Jl Senayan City,1475822,3.6,3.2,61
+917,Jogjakarta,15561,Jl Senayan City,1712763,3.6,4.2,71
+918,Pulo Gadung,13854,Jl Sentul City,2536249,3.6,4.2,76
+919,Jogjakarta,14226,Jl Sudirman,1288865,3.6,4.2,83
+920,Pulo Gadung,13898,Jl Sentul City,1300401,3.6,4.2,79
+921,Pulo Gadung,14291,Jl Sudirman,107826,3.6,3.2,78
+922,Kelapa Sawit,14092,Jl Senayan City,987460,3.6,4.2,88
+923,Kelapa Sawit,15607,Jl Sudirman,33001,3.6,3.2,66
+924,Jogjakarta,14619,Jl Senayan City,1882544,3.6,3.2,83
+925,Pulo Gadung,15521,Jl Sentul City,237837,3.6,3.2,77
+926,Jogjakarta,13804,Jl Sudirman,525888,3.6,4.2,63
+927,Kelapa Sawit,13519,Jl Sentul City,2471663,3.6,3.2,87
+928,Pulo Gadung,14713,Jl Sudirman,2915953,3.6,3.2,88
+929,Pulo Gadung,14868,Jl Senayan City,2668193,3.6,3.2,77
+930,Kelapa Sawit,13628,Jl Sudirman,1236277,3.6,3.2,66
+931,Pulo Gadung,15548,Jl Sudirman,1527516,3.6,4.2,84
+932,Jogjakarta,13725,Jl Sentul City,1544048,3.6,3.2,75
+933,Kelapa Sawit,13423,Jl Sentul City,2922315,3.6,4.2,72
+934,Kelapa Sawit,14553,Jl Sudirman,701214,3.6,3.2,80
+935,Pulo Gadung,13583,Jl Sentul City,1039940,3.6,3.2,77
+936,Kelapa Sawit,15462,Jl Sudirman,1659710,3.6,3.2,81
+937,Kelapa Sawit,14037,Jl Senayan City,1252364,3.6,3.2,78
+938,Kelapa Sawit,13843,Jl Sentul City,855420,3.6,3.2,78
+939,Kelapa Sawit,14913,Jl Senayan City,165778,3.6,3.2,77
+940,Kelapa Sawit,14648,Jl Sudirman,934574,3.6,3.2,64
+941,Pulo Gadung,13470,Jl Sudirman,468861,3.6,4.2,75
+942,Pulo Gadung,15366,Jl Senayan City,2081488,3.6,4.2,72
+943,Pulo Gadung,15280,Jl Senayan City,2985469,3.6,4.2,74
+944,Jogjakarta,13574,Jl Sudirman,195333,3.6,4.2,69
+945,Kelapa Sawit,13815,Jl Sentul City,2610358,3.6,4.2,70
+946,Jogjakarta,14542,Jl Sudirman,288941,3.6,4.2,70
+947,Kelapa Sawit,13880,Jl Sentul City,54725,3.6,4.2,86
+948,Kelapa Sawit,13869,Jl Sentul City,1543274,3.6,4.2,79
+949,Kelapa Sawit,14802,Jl Sentul City,202433,3.6,3.2,74
+950,Jogjakarta,15565,Jl Sudirman,1930448,3.6,4.2,64
+951,Pulo Gadung,14709,Jl Sentul City,98277,3.6,4.2,56
+952,Jogjakarta,14804,Jl Sentul City,965353,3.6,4.2,57
+953,Kelapa Sawit,13915,Jl Sentul City,2657848,3.6,4.2,66
+954,Pulo Gadung,14291,Jl Sudirman,2091885,3.6,4.2,79
+955,Pulo Gadung,14341,Jl Sentul City,314967,3.6,3.2,83
+956,Pulo Gadung,14443,Jl Sudirman,1019729,3.6,3.2,83
+957,Pulo Gadung,14428,Jl Sentul City,1391826,3.6,4.2,62
+958,Jogjakarta,14741,Jl Sudirman,2474976,3.6,4.2,57
+959,Jogjakarta,15598,Jl Senayan City,585828,3.6,4.2,65
+960,Kelapa Sawit,15505,Jl Sentul City,1418162,3.6,4.2,59
+961,Jogjakarta,14884,Jl Sentul City,2814932,3.6,3.2,72
+962,Pulo Gadung,15579,Jl Senayan City,2839929,3.6,4.2,90
+963,Kelapa Sawit,13867,Jl Sentul City,429572,3.6,4.2,69
+964,Jogjakarta,14067,Jl Sentul City,2015977,3.6,3.2,73
+965,Kelapa Sawit,13773,Jl Senayan City,1960751,3.6,3.2,85
+966,Pulo Gadung,14025,Jl Sudirman,1600697,3.6,4.2,74
+967,Pulo Gadung,14209,Jl Senayan City,2860744,3.6,4.2,64
+968,Jogjakarta,15179,Jl Sudirman,2080586,3.6,3.2,73
+969,Kelapa Sawit,13566,Jl Sudirman,2618580,3.6,3.2,78
+970,Jogjakarta,14325,Jl Sudirman,1359262,3.6,4.2,86
+971,Jogjakarta,15457,Jl Sudirman,218746,3.6,4.2,65
+972,Jogjakarta,14019,Jl Senayan City,1313845,3.6,3.2,79
+973,Pulo Gadung,15211,Jl Sentul City,1098102,3.6,3.2,89
+974,Pulo Gadung,15372,Jl Sentul City,2813916,3.6,4.2,78
+975,Kelapa Sawit,13529,Jl Senayan City,1758922,3.6,4.2,67
+976,Jogjakarta,15589,Jl Sudirman,2404213,3.6,4.2,90
+977,Pulo Gadung,13529,Jl Senayan City,985205,3.6,4.2,89
+978,Jogjakarta,14282,Jl Sentul City,1697301,3.6,3.2,72
+979,Jogjakarta,14937,Jl Sudirman,949095,3.6,4.2,73
+980,Pulo Gadung,15589,Jl Sudirman,2159553,3.6,3.2,89
+981,Pulo Gadung,13793,Jl Sudirman,2129982,3.6,4.2,66
+982,Pulo Gadung,15597,Jl Senayan City,226673,3.6,4.2,61
+983,Jogjakarta,15218,Jl Senayan City,1882066,3.6,4.2,64
+984,Jogjakarta,14524,Jl Sentul City,2660102,3.6,4.2,68
+985,Kelapa Sawit,13774,Jl Sudirman,1742533,3.6,4.2,58
+986,Jogjakarta,15051,Jl Sentul City,2189675,3.6,3.2,71
+987,Jogjakarta,15014,Jl Senayan City,1909831,3.6,3.2,84
+988,Jogjakarta,14010,Jl Sentul City,2276392,3.6,4.2,76
+989,Jogjakarta,13527,Jl Sudirman,2177768,3.6,4.2,62
+990,Kelapa Sawit,14921,Jl Senayan City,1583828,3.6,3.2,61
+991,Kelapa Sawit,14005,Jl Senayan City,1057895,3.6,4.2,88
+992,Kelapa Sawit,13834,Jl Sentul City,672016,3.6,4.2,87
+993,Jogjakarta,15348,Jl Senayan City,2057844,3.6,4.2,88
+994,Kelapa Sawit,15446,Jl Sentul City,1543924,3.6,4.2,75
+995,Jogjakarta,13461,Jl Sentul City,884744,3.6,3.2,81
+996,Jogjakarta,14370,Jl Sudirman,157761,3.6,3.2,88
+997,Kelapa Sawit,15372,Jl Sentul City,79150,3.6,4.2,74
+998,Kelapa Sawit,13853,Jl Senayan City,1864962,3.6,4.2,56
+999,Pulo Gadung,14931,Jl Sentul City,1639836,3.6,3.2,89
+1000,Kelapa Sawit,15472,Jl Sentul City,230248,3.6,3.2,72
+1001,Kelapa Sawit,14437,Jl Sentul City,1878363,3.6,3.2,78
+1002,Kelapa Sawit,15036,Jl Senayan City,583333,3.6,3.2,85
+1003,Kelapa Sawit,15204,Jl Sudirman,2724971,3.6,3.2,78
+1004,Pulo Gadung,15486,Jl Sudirman,1509200,3.6,3.2,69
+1005,Kelapa Sawit,13921,Jl Sudirman,795367,3.6,4.2,68
+1006,Pulo Gadung,14003,Jl Sudirman,2213234,3.6,4.2,63
+1007,Kelapa Sawit,13774,Jl Sentul City,1931600,3.6,4.2,71
+1008,Pulo Gadung,15224,Jl Senayan City,1241825,3.6,4.2,89
+1009,Jogjakarta,15358,Jl Senayan City,2571975,3.6,3.2,81
+1010,Pulo Gadung,13754,Jl Senayan City,375322,3.6,3.2,89
+1011,Kelapa Sawit,15294,Jl Sentul City,1774282,3.6,4.2,68
+1012,Kelapa Sawit,14798,Jl Sentul City,2988224,3.6,3.2,73
+1013,Kelapa Sawit,15281,Jl Sudirman,419283,3.6,4.2,88
+1014,Jogjakarta,15469,Jl Senayan City,792538,3.6,4.2,80
+1015,Jogjakarta,14226,Jl Sudirman,1769467,3.6,4.2,73
+1016,Jogjakarta,14354,Jl Sentul City,2318433,3.6,3.2,88
+1017,Pulo Gadung,15522,Jl Sudirman,1837410,3.6,4.2,62
+1018,Kelapa Sawit,15642,Jl Senayan City,800877,3.6,3.2,70
+1019,Kelapa Sawit,13875,Jl Sudirman,2252850,3.6,3.2,61
+1020,Pulo Gadung,14441,Jl Sentul City,1519372,3.6,4.2,76
+1021,Pulo Gadung,15256,Jl Senayan City,2792578,3.6,4.2,90
+1022,Pulo Gadung,13741,Jl Sentul City,1002541,3.6,4.2,78
+1023,Pulo Gadung,14925,Jl Sudirman,742844,3.6,4.2,65
